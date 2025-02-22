@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:exercise1/exercise1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:exercise2/exercise2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:exercise3/exercise3.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:exercise4/exercise4.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:exercise5/exercise5.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:exercise6/exercise6.xcodeproj">
+   </FileRef>
+</Workspace>
